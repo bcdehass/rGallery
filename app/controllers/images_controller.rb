@@ -19,6 +19,8 @@ class ImagesController < ApplicationController
   end
 
   def index
+    @images = Image.all
+    @categories = Category.all
   end
 
   private 
