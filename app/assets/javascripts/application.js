@@ -12,6 +12,7 @@
 //
 //= jquery
 //= jquery_ujs
+//= jquery-ui
 //= require turbolinks
 //= require lightbox
 //= require_tree .
